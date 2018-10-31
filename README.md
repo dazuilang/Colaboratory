@@ -1,1 +1,1 @@
-使用Google Colaboratory学习tensorflow创建的一些笔记
+使用Colaboratory学习tensorflow时的一些练习
